@@ -1,0 +1,5 @@
+# Patient Readmission
+
+Hospital readmission is very expensive, and it is an emerging indicator of quality of health care. On average, Medicare spends double the amount for an episode with one readmission. Moreover, diabetes is a chronic disease affecting people of all ages and is prevalent in a large amount of people all over the world. Thus, examining the historical patterns of diabetic’s care is very essential which might lead to improvements in patient safety and prevent future readmissions. This not only improves the quality of care but also reduces the medical expenses on readmission. There are a few studies on readmission rates among individuals with diabetes. Different tools and models were built to predict the risk of all-cause readmission within 30 days among hospitalized patients with diabetes.
+
+In order to provide a valid assessment and to find future directions which might lead to improvements in patient safety, we must determine all the contributing factors for predicting readmission of diabetes patients. We will implement a ML Model to see whether a patient will readmit within 30 Days.
